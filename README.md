@@ -1,6 +1,8 @@
 
 <!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&fontSize=50&height=170&text=myungyi0314&fontAlign=70&rotate=10&fontAlignY=25)
-![header](https://capsule-render.vercel.app/api?type=wave&color=75BDE0&height=300&section=header&text=myungyi0314&fontSize=90) -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=75BDE0&height=300&section=header&text=myungyi0314&fontSize=90) 
+https://github.com/kyechan99/capsule-render/blob/master/README.md
+-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFA883&height=250&section=header&text=myungyi0314%20github&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 <!-- **myungtech/myungtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<h2 align="center"> :dolphin: Tech Stack :dolphin:</h2>
+<h2 align="center"> 🥝 Tech Stack 🥝</h2>
 <h5 align="center"> Techs that I've used at least once </h5>
 
 <br>
