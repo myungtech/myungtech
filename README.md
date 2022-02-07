@@ -1,5 +1,5 @@
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&fontSize=50&height=200&text=myungyi0314&fontAlign=70&rotate=13&fontAlignY=25)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=75BDE0&fontSize=50&height=150&text=myungyi0314&fontAlign=70&rotate=10&fontAlignY=25)
 
 <!-- **myungtech/myungtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
