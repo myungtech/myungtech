@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<h2 align="center"> 🥝 Tech Stack 🥝</h2>
+<h2 align="center">⚽ Tech Stack ⚽</h2>
 <h5 align="center"> Techs that I've used at least once </h5>
 
 <br>
