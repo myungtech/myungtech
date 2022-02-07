@@ -70,11 +70,13 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=myungyi0314&layout=compact&show_icons=true&hide_border=true&private=true)
 
 
-<br>
-<br>
 
+<!-- 
+<br>
+<br>
 ## Contact 📩 
 
 <a href="wlsaud1992@gmail.com">
 <img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hijongwook@gmail.com />
 </a>
+ -->
