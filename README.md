@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-<h2 align="center">⚽ Tech Stack ⚽</h2>
-<h5 align="center"> Techs that I've used at least once </h5>
+<h2 align="left">⚽ Tech Stack </h2>
+<h5 align="left"> Techs that I've used at least once </h5>
 
 <br>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=Android+studio&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white"/>	
@@ -37,3 +37,44 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?logo=Adobe+XD&logoColor=black"/>
 	
 </p>
+<br>
+<br>
+
+<p align="left">
+<a href="#">
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/-Java-F6F6F6?style=for-the-badge&logo=java&logoColor=003399" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></a> &nbsp;
+<a href="#">
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a> <br>
+<a href="#">
+<img src="https://img.shields.io/badge/vue.js%20-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/node.js-white?style=for-the-badge&logo=node.js" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/express.js%20-%2335495e.svg?style=for-the-badge&logo=express.js" /></a> &nbsp;
+<a href="#">
+<img src="https://img.shields.io/badge/-mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=blue"/></a> &nbsp;
+</p>
+
+<br>
+<br>
+<h2 align="left">⚽  Language Usage ~ Status </h2> 
+
+![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=myungyi0314&layout=compact&show_icons=true&hide_border=true&private=true)
+
+
+<br>
+<br>
+
+## Contact 📩 
+
+<a href="wlsaud1992@gmail.com">
+<img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hijongwook@gmail.com />
+</a>
