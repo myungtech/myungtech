@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<h2 align="left">⚽  Language Usage ~ Status </h2> 
+<h2 align="left">⚽  Language Usage Status </h2> 
 
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=myungyi0314&layout=compact&show_icons=true&hide_border=true&private=true)
 
