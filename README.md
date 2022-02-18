@@ -35,12 +35,22 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
  <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black"/>
  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?logo=Adobe+XD&logoColor=black"/>
-	
+ <img src="https://img.shields.io/badge/Adidas-000000?logo=Adidas"/>	
+ <img src="https://img.shields.io/badge/Amazon-FF9900?logo=Amazon&logoColor=black"/>	
+</p>
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black"/>
+ <img src="https://img.shields.io/badge/AdobeXD-FF61F6?logo=Adobe+XD&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Adidas-000000?logo=Adidas"/>	
+ <img src="https://img.shields.io/badge/Amazon-FF9900?logo=Amazon&logoColor=black"/>	
 </p>
 <br>
 <br>
 
-<p align="left">
+<!-- <p align="left">
 <a href="#">
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/></a> &nbsp;
 <a href="#">
@@ -61,7 +71,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/express.js%20-%2335495e.svg?style=for-the-badge&logo=express.js" /></a> &nbsp;
 <a href="#">
 <img src="https://img.shields.io/badge/-mysql-lightblue?style=for-the-badge&logo=mysql&logoColor=blue"/></a> &nbsp;
-</p>
+</p> -->
 
 <br>
 <br>
