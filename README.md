@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <!-- 언어 -->
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=Javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white"/>
 <br>
 <!-- 프레임워크&라이브러리 -->
 <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white"/>	
-<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white"/>	
+<img src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black"/>	
 <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"/>	
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>	
 <br>
@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white"/>	
-<img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black"/>
 <br>
 <!-- 개발툴 -->
 <img src="https://img.shields.io/badge/AWS-FF9900?logo=Amazon&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=Android+studio&logoColor=white"/>	
-<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=Android+studio&logoColor=black"/>	
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?logo=Visual+Studio+Code&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white"/>
