@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <!-- 개발툴 -->
 <img src="https://img.shields.io/badge/AWS-FF9900?logo=Amazon&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=Android+studio&logoColor=black"/>	
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?logo=Android+studio&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/VSCode-007ACC?logo=Visual+Studio+Code&logoColor=white"/>
 <br>
