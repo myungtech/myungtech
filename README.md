@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFA883&height=250&section=header&text=myungyi0314%20github&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFA883&height=250&section=header&text=myungyi0314%20github&fontSize=60&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
 <h2 align="left">⚽ Tech Stack </h2>
 <h5 align="left"> Techs that I've used at least once </h5>
