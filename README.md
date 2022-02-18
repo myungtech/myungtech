@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?logo=Adobe+XD&logoColor=black"/>
  <img src="https://img.shields.io/badge/Adidas-000000?logo=Adidas"/>	
  <img src="https://img.shields.io/badge/Amazon-FF9900?logo=Amazon&logoColor=black"/>	
-</p>
+ <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=white"/>
