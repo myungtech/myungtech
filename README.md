@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2875cd&height=270&section=header&text=myungyi0314%20github&fontSize=50&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
-<h2 align="left">✔ Tech Stack </h2>
+<h2 align="left">⚽ Tech Stack </h2>
 <h5 align="left"> Techs that I've used at least once </h5>
 
 <br>
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<h2 align="left">✔  Language Usage Status </h2>
+<h2 align="left">⚽  Language Usage Status </h2>
 
 ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=myungyi0314&layout=compact&show_icons=true&hide_border=true&private=true)
 
