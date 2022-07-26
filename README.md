@@ -60,6 +60,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PyCharm-000000?logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Colab-F9AB00?logo=Google+Colab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=Jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apach Kafka-9cf?logo=Apache Kafka&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redis-black?logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Logstash-important?logo=Logstash&logoColor=white"/>
 
 </p>
 
