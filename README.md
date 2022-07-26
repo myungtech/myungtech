@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 </p>
 
 <br>
-<h2 align="left" >⚽  Language Usage Status </h2>
+<h2 align="left" >⚽  Github Status </h2>
 
  
 
