@@ -65,17 +65,16 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Redis-black?logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Logstash-important?logo=Logstash&logoColor=white"/>
 
-
+<!-- 
 </p>
 
 <br>
 <h2 align="left" >⚽  Github Status </h2>
 
- 
-
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungyi0314)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--  ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=myungyi0314&layout=compact&show_icons=true&hide_border=true&private=true)
+ ![Top Langs](https://github-readme-stats.aemiej.vercel.app/api/top-langs/?username=myungyi0314&layout=compact&show_icons=true&hide_border=true&private=true)
+ 
  -->
 
 <!-- https://github.com/anuraghazra/github-readme-stats
