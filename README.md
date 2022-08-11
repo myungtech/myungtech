@@ -78,7 +78,7 @@ Here are some ideas to get you started:
  
  
 <!-- 
-<br>
+<br>.
 <h2 align="left" >⚽  Github Status </h2>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myungyi0314)](https://github.com/anuraghazra/github-readme-stats)
