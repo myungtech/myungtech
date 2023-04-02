@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Apach Kafka-9cf?logo=Apache Kafka&logoColor=black"/>
 <img src="https://img.shields.io/badge/Redis-black?logo=Redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Logstash-important?logo=Logstash&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ElasticSearch-F80000?logo=ElasticSearch&logoColor=white"/>
 
 
 </p>
