@@ -23,15 +23,11 @@ Here are some ideas to get you started:
 <p align="center">
 
 <!-- 언어 -->
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=Javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-FFFFFF?logo=Java&logoColor=black"/>
 <img src="https://img.shields.io/badge/Python-blue?logo=Python&logoColor=white"/>
 <br>
 
 <!-- 프레임워크&라이브러리 -->
-<img src="https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white"/>	
 <img src="https://img.shields.io/badge/Django-092E20?logo=Django&logoColor=white"/>	
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white"/>	
